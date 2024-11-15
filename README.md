@@ -5,10 +5,9 @@ This is my private account, it contains some of my previous projects going all t
 
 - **🏦 Education:**
     - Studying Computer Science and Engineering at **NTNU Trondheim** .
-- **🔭 Projects**
-    - Master thesis prestudy
-    - Currently unnamed react mobile application
-    - Div summer projects
+- **🔭 Current Projects**
+    - Master thesis prestudy for large scale K-Nearest Neigbour Search
+    - SubDub React Native application
 - **💬 Let's Talk About:** I'm passionate about our AI future, and how we can make it sustainable. Let's exchange insights!
   
 
