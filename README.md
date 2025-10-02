@@ -1,13 +1,16 @@
-<h1> Github, the final frontier, Welcome! </h1>
+<h1> Welcome to my private code-stash </h1>
 This is my private account, it contains some of my projects up til now, going all the way back to 2019.
 
 ## About Me:
 
 - **🏦 Education:**
-    - Studying Computer Science and Engineering at **NTNU Trondheim** .
+    - Computer Science and Engineering at **NTNU Trondheim**
 - **🔭 Current Projects**
-    - Master thesis prestudy for large scale K-Nearest Neigbour Search
-- **💬 Let's Talk About:** I'm passionate about our AI future, and how we can make it sustainable. Let's exchange insights!
+    - Conversational AI for podcast generation and reliable information services
+      [Feedcast](https://open.spotify.com/show/1CiHMj9fpBbBQuRZt12SM4)
+    - Implicite Quantile Netwoks and Reinforcement Learning
+    - Finding doctorate projects
+- **💬 Let's Talk About:** AI, Big Data, Internet of things... How can we improve and utilize AI-methodologies more effectily and efficiently?
 
 <div align="center">
 <img src="https://tenor.com/view/walking-duck-gif-8274121367215425776.gif" width="100" align="center"/>
