@@ -30,6 +30,9 @@ This is my private account, it contains some of my projects up til now, going al
         <img src= "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud" width="65" height="65"/>
         <img src= "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="65" height="65"/>
 </div>
+<div align="center">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=pilotCapp&theme=vue&show_icons=true&hide_border=true&layout=compact>
+</div>
 
 
 Let me know if you want to connect, im always open to meeting new interesting people :)
@@ -51,11 +54,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# ![pilotCapp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pilotCapp&theme=vue&show_icons=true&hide_border=true&layout=compact)
+![pilotCapp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pilotCapp&theme=vue&hide_border=true)
 
-# ![pilotCapp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pilotCapp&theme=vue&hide_border=true)
-
-# ![pilotCapp's Stats](https://github-readme-stats.vercel.app/api?username=pilotCapp&theme=vue&show_icons=true&hide_border=true&count_private=false)
+![pilotCapp's Stats](https://github-readme-stats.vercel.app/api?username=pilotCapp&theme=vue&show_icons=true&hide_border=true&count_private=false)
 
 -->
 
